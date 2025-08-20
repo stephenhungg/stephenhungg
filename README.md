@@ -1,16 +1,74 @@
-## Hi there 👋
+# hey, i'm stephen 👋
 
-<!--
-**stephenhungg/stephenhungg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EECS @ UC Berkeley** • **Full-Stack & ML/AI Developer** • **Chino Hills → Berkeley**
 
-Here are some ideas to get you started:
+currently building cool stuff with ai agents, scalable web apps, and whatever catches my interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## what i'm up to
+
+- 🔬 **software engineering intern** @ OptiGenix - training AI models for clinical data extraction
+- 📚 **sophomore @ cal** studying electrical engineering & computer sciences
+- 🤖 **building** full-stack apps with AI integration and scalable backends
+- 🧠 **learning** advanced ML techniques and cloud architecture
+
+---
+
+## tech stack
+
+**languages**
+```
+Python • JavaScript/TypeScript • Java • C++ • Go • SQL
+```
+
+**frameworks & tools**
+```
+React • Node.js • Express • LangChain • TensorFlow • PyTorch
+MongoDB • PostgreSQL • Docker • AWS • GCP • Firebase
+```
+
+**certifications**
+- Stanford ML Specialization
+- Google IT Automation with Python
+
+---
+
+## recent projects
+
+**🔥 [ClarifAI](https://github.com/stephenhung)** - AI agent that breaks down research papers into animated explanations  
+*FastAPI • LangChain • Google Cloud • Manim*
+
+**📱 [myBackpack](https://github.com/stephenhung)** - professional networking app for students with LLM-powered guidance  
+*Java • ChatGPT API • XML*
+
+**📷 [InStephGram](https://github.com/stephenhung)** - competition-driven social media platform  
+*React • Node.js • MongoDB • AWS S3*
+
+---
+
+## when i'm not coding
+
+league of legends (solo/duo diamond peak, tft masters peak) • fashion • sf tech culture • geometry dash • edm • matcha runs
+
+---
+
+## let's connect
+
+always down to collaborate on cool projects or chat about tech
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-h-hung/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/stpnhh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:stephenhung@berkeley.edu)
+
+---
+
+## github stats
+
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
+
+---
+
+*open to internships, full-time opportunities, and interesting collaborations*
