@@ -36,6 +36,9 @@ MongoDB • PostgreSQL • Docker • AWS • GCP • Firebase
 
 ## recent projects
 
+**🎵 [SpotifyTUI](https://github.com/stephenhungg/spotifytui)** - terminal-based Spotify client with full playback control  
+*Python • Textual • Spotify API*
+
 **🔥 [ClarifAI](https://github.com/stephenhung)** - AI agent that breaks down research papers into animated explanations  
 *FastAPI • LangChain • Google Cloud • Manim*
 
@@ -49,7 +52,7 @@ MongoDB • PostgreSQL • Docker • AWS • GCP • Firebase
 
 ## when i'm not coding
 
-league of legends (solo/duo diamond peak, tft masters peak) • fashion • sf tech culture • geometry dash • edm • matcha runs
+league of legends (tft main) • fashion • sf tech culture • geometry dash • edm • matcha runs
 
 ---
 
@@ -65,9 +68,9 @@ always down to collaborate on cool projects or chat about tech
 
 ## github stats
 
-![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenhungg&show_icons=true&theme=dark&hide_border=true)
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenhungg&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
 
 ---
 
