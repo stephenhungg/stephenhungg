@@ -50,9 +50,22 @@ MongoDB • PostgreSQL • Docker • AWS • GCP • Firebase
 
 ---
 
+## my setup
+
+**macOS rice** 🍚
+```
+yabai + skhd   # tiling window manager + hotkeys
+neovim         # text editor of choice
+tmux           # terminal multiplexer
+kitty/wezterm  # terminal emulator
+catppuccin     # macchiato theme everywhere
+homebrew       # package management
+dotfiles       # keeping it clean
+```
+
 ## when i'm not coding
 
-league of legends (solo/duo diamond, tft masters) • fashion • sf tech culture • geometry dash • edm • matcha
+league of legends (solo duo peak diamond, tft peak masters) • fashion • sf tech culture • geometry dash • edm • matcha
 
 ---
 
@@ -63,6 +76,7 @@ always down to collaborate on cool projects or chat about tech
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-h-hung/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/stpnhh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:stephenhung@berkeley.edu)
+
 
 ---
 
