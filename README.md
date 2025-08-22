@@ -57,10 +57,10 @@ MongoDB • PostgreSQL • Docker • AWS • GCP • Firebase
 yabai + skhd   # tiling window manager + hotkeys
 neovim         # text editor of choice
 tmux           # terminal multiplexer
-kitty/wezterm  # terminal emulator
+kitty          # terminal emulator
+zsh            # shell
 catppuccin     # macchiato theme everywhere
 homebrew       # package management
-dotfiles       # keeping it clean
 ```
 
 ## when i'm not coding
