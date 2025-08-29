@@ -36,6 +36,9 @@ MongoDB • PostgreSQL • Docker • AWS • GCP • Firebase
 
 ## recent projects
 
+**🧠 [VibeChainAPI](https://github.com/stephenhungg/vibechain-api)** - ML powered music recommendation API
+*Typescript • Tensorflow.js • Express*
+
 **🎵 [SpotifyTUI](https://github.com/stephenhungg/spotifytui)** - terminal-based Spotify client with full playback control  
 *Python • Textual • Spotify API*
 
