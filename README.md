@@ -8,7 +8,6 @@ currently building cool stuff with ai agents, scalable web apps, and whatever ca
 
 ## what i'm up to
 
-- 🔬 **software engineering intern** @ OptiGenix - training AI models for clinical data extraction
 - 📚 **sophomore @ cal** studying electrical engineering & computer sciences
 - 🤖 **building** full-stack apps with AI integration and scalable backends
 - 🧠 **learning** advanced ML techniques and cloud architecture
@@ -36,19 +35,22 @@ MongoDB • PostgreSQL • Docker • AWS • GCP • Firebase
 
 ## recent projects
 
+**🎯 [crakd.co](https://github.com/qtzx06/crakd)** - AI agent for finding cracked engineers  
+*Python • React+Vite • GitHub API • Google Gemini API*
+
 **🧠 [VibeChainAPI](https://github.com/stephenhungg/vibechain-api)** - ML powered music recommendation API  
 *Typescript • Tensorflow.js • Express*
 
 **🎵 [SpotifyTUI](https://github.com/stephenhungg/spotifytui)** - terminal-based Spotify client with full playback control  
 *Python • Textual • Spotify API*
 
-**🔥 [ClarifAI](https://github.com/stephenhung)** - AI agent that breaks down research papers into animated explanations  
+**🔥 [ClarifAI](https://github.com/qtzx06/clarifai)** - AI agent that breaks down research papers into animated explanations  
 *FastAPI • LangChain • Google Cloud • Manim*
 
-**📱 [myBackpack](https://github.com/stephenhung)** - professional networking app for students with LLM-powered guidance  
+**📱 [myBackpack](https://github.com/stephenhungg/myBackpack)** - professional networking app for students with LLM-powered guidance  
 *Java • ChatGPT API • XML*
 
-**📷 [InStephGram](https://github.com/stephenhung)** - competition-driven social media platform  
+**📷 [InStephGram](https://github.com/stephenhungg/InStephGram)** - competition-driven social media platform  
 *React • Node.js • MongoDB • AWS S3*
 
 ---
