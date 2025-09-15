@@ -33,6 +33,14 @@ MongoDB • PostgreSQL • Docker • AWS • GCP • Firebase
 
 ---
 
+## organizations
+
+🔴🟡 theta tau - professional engineering fraternity
+building connections in the engineering community
+
+🔵⚪ blueprint - tech for social good organization
+developing software solutions for nonprofits and communities
+
 ## recent projects
 
 **🎯 [crakd.co](https://github.com/qtzx06/crakd)** - AI agent for finding cracked engineers  
