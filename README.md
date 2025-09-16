@@ -35,10 +35,10 @@ MongoDB • PostgreSQL • Docker • AWS • GCP • Firebase
 
 ## organizations
 
-🔴🟡 theta tau - professional engineering fraternity
+🔴🟡 theta tau - professional engineering fraternity  
 building connections in the engineering community
 
-🔵⚪ blueprint - tech for social good organization
+🔵⚪ blueprint - tech for social good organization  
 developing software solutions for nonprofits and communities
 
 ---
