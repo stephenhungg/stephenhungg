@@ -1,119 +1,89 @@
-# hey, i'm stephen 👋
+# stephen hung
 
-**EECS @ UC Berkeley** • **Full-Stack & ML/AI Developer** • **Chino Hills → Berkeley**
+**EECS @ UC Berkeley** · full-stack, ML/AI, WebGL, blockchain
 
-building ai agents, scalable web apps, and whatever sparks my curiosity
+```
+41 repos · 1,277 commits · ~670k lines of code · 14 months
+```
+
+i build across the stack... web, mobile, shaders, agents, blockchain, whatever the project needs. most of my code ships between midnight and 2am.
 
 ---
 
 ## currently
 
-- 📚 sophomore @ cal studying electrical engineering & computer sciences
-- 🤖 shipping full-stack apps with AI and scalable backends
-- 🧠 diving into advanced ML and cloud architecture
-- 🔴🟡 theta tau – professional engineering fraternity
-- 🔵⚪ blueprint – building tech for social good
+- sophomore @ cal studying electrical engineering & computer sciences
+- theta tau, professional engineering fraternity
+- blueprint, building tech for social good
 
 ---
 
-## tech stack
+## what i ship
 
-**languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**[opal](https://github.com/qtzx06/opal)** — 549 commits, 199k LOC
+WebGL showcase with custom metallic paint shaders, organic blob loaders, and a dark monochrome design system. Three.js/R3F, Framer Motion, GLSL.
 
-**frameworks & libraries**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+**[darwin](https://github.com/qtzx06/darwin)** — Cal Hacks winner, 166k LOC
+Multi-agent coding platform. React, Letta, LiveKit, Sui Blockchain, Three.js, ElevenLabs.
 
-**databases & cloud**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+**[lapis](https://github.com/stephenhungg/lapis)** — hackathon, 18 hours, 45k LOC
+XRPL prediction market with MetaLEX SAFE agreements, DexScreener, multi-wallet auth, Supabase, Redis. built with a team of 5 from 10am to 4am.
 
-**developer tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+**[crakd.co](https://github.com/qtzx06/crakd)** — AI agent for finding cracked engineers
+Python, React+Vite, GitHub API, Google Gemini API.
 
-**certified in**  
-Stanford Machine Learning Specialization • Google IT Automation with Python Specialization
+**[yolodex](https://github.com/qtzx06/yolodex)** — ML data pipeline
+Video labeling with multi-mode annotation (CUA+SAM, Gemini, GPT). structured exports, local video support.
+
+**[enactus website](https://github.com/stephenhungg/enactus-website)** — club site + AI growth engine
+Enactus Berkeley's site plus a chat-first AI marketing agent. Vite, React, Claude tool_use, Satori.
+
+**[clarifai](https://github.com/qtzx06/clarifai)** — research paper explainer
+AI agent that breaks down papers into animated explanations. FastAPI, LangChain, Manim.
+
+**[flow](https://github.com/stephenhungg/flow)** — 85 commits, 49k LOC
+**[VibeChainAPI](https://github.com/stephenhungg/vibechain-api)** — ML-powered music recommendation API
+**[spotifytui](https://github.com/stephenhungg/spotifytui)** — terminal Spotify client
+**[InStephGram](https://github.com/stephenhungg/InStephGram)** — competition-driven social media platform
+**[myBackpack](https://github.com/stephenhungg/myBackpack)** — networking app with LLM-powered career guidance
 
 ---
 
-## featured projects
+## tech
 
-**🤖 [darwin](https://github.com/qtzx06/darwin)** – multi-agent coding platform (Cal Hacks winner)  
-`React` `Letta` `LiveKit` `Sui Blockchain` `Three.js` `ElevenLabs`  
-
-**🎯 [crakd.co](https://github.com/qtzx06/crakd)** – AI agent for finding cracked engineers  
-`Python` `React+Vite` `GitHub API` `Google Gemini API`
-
-**🧠 [VibeChainAPI](https://github.com/stephenhungg/vibechain-api)** – ML-powered music recommendation API  
-`TypeScript` `TensorFlow.js` `Express`
-
-**🎵 [SpotifyTUI](https://github.com/stephenhungg/spotifytui)** – terminal-based Spotify client with full playback control  
-`Python` `Textual` `Spotify API`
-
-**🔥 [ClarifAI](https://github.com/qtzx06/clarifai)** – AI agent that transforms research papers into animated explanations  
-`FastAPI` `LangChain` `Google Cloud` `Manim`
-
-**📱 [myBackpack](https://github.com/stephenhungg/myBackpack)** – professional networking app with LLM-powered career guidance  
-`Java` `ChatGPT API` `XML`
-
-**📷 [InStephGram](https://github.com/stephenhungg/InStephGram)** – competition-driven social media platform  
-`React` `Node.js` `MongoDB` `AWS S3`
-
----
-
-## my setup 🍚
 ```
-yabai + skhd      tiling wm + hotkeys
-neovim            where the magic happens
-tmux              terminal multiplexer
-kitty             terminal emulator
-zsh               shell
-catppuccin        macchiato everywhere
-homebrew          package management
+typescript · python · c++ · c · java · go · ruby · glsl · sql
+
+react · next.js · vite · three.js/r3f · tailwind · framer motion
+react native · expo
+fastapi · express · node.js · langchain
+tensorflow · pytorch
+sui move · xrpl · solana
+mongodb · supabase · postgresql · redis · firebase
+aws · gcp · vercel · docker
 ```
 
 ---
 
-## when i'm not coding
+## setup
 
-league (solo duo peak diamond, tft peak masters) • fashion • sf tech scene • geometry dash • edm • matcha enthusiast
+```
+kitty              terminal (tomorrow night)
+claude code        primary editor
+codex              secondary editor
+neovim             when i need it
+bun                runtime
+zsh + tmux         shell
+yabai + skhd       tiling wm + hotkeys
+```
 
 ---
 
-## let's connect
+## outside of code
 
-always down to collaborate on cool projects or talk tech
+league (peak diamond solo/duo, masters tft) · fashion · sf tech scene · geometry dash · edm · matcha
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-h-hung/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/stpnhh)
@@ -122,9 +92,4 @@ always down to collaborate on cool projects or talk tech
 
 ---
 
-![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenhungg&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenhungg&layout=compact&theme=dark&hide_border=true)
-
----
-
-*open to internships, full-time roles, and interesting collabs*
+*open to internships, collaborations, and interesting problems*
