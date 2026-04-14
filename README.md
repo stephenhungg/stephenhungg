@@ -3,7 +3,7 @@
 **EECS @ UC Berkeley** · full-stack, ML/AI, WebGL, blockchain
 
 ```
-41 repos · 1,277 commits · ~670k lines of code · 14 months
+44 repos · 1,800+ commits · ~750k lines of code · 2+ years
 ```
 
 i build across the stack... web, mobile, shaders, agents, blockchain, whatever the project needs. most of my code ships between midnight and 2am.
@@ -12,7 +12,7 @@ i build across the stack... web, mobile, shaders, agents, blockchain, whatever t
 
 ## currently
 
-- sophomore @ cal studying electrical engineering & computer sciences
+- junior @ cal studying electrical engineering & computer sciences
 - theta tau, professional engineering fraternity
 - blueprint, building tech for social good
 
@@ -20,14 +20,30 @@ i build across the stack... web, mobile, shaders, agents, blockchain, whatever t
 
 ## what i ship
 
+### 2026
+
+**[memopal](https://github.com/qtzx06/memopal)** — Zero to Agent hackathon
+Personal context engine with hierarchical AI agent swarm. Semantic retrieval over your own life data.
+
+**[lapis](https://github.com/stephenhungg/lapis)** — BabHacks 2026
+AI startup valuations settled on XRPL. MetaLEX SAFE agreements, DexScreener, multi-wallet auth, Supabase, Redis.
+
+**[lifequery](https://github.com/stephenhungg/lifequery)** — query your own life
+AI + semantic retrieval over personal data. Ask questions, get answers from your own history.
+
+**[gbrain](https://github.com/stephenhungg/gbrain)** — production knowledge base system v0.9
+LLM-compiled wiki with graph traversal, semantic search, incremental ingestion, and version control.
+
+**[bip](https://github.com/theodorechapman/bip)** — autonomous agent economic infrastructure
+Agent-to-agent payment rails and economic primitives for autonomous systems.
+
+### earlier
+
 **[opal](https://github.com/qtzx06/opal)** — 549 commits, 199k LOC
 WebGL showcase with custom metallic paint shaders, organic blob loaders, and a dark monochrome design system. Three.js/R3F, Framer Motion, GLSL.
 
 **[darwin](https://github.com/qtzx06/darwin)** — Cal Hacks winner, 166k LOC
 Multi-agent coding platform. React, Letta, LiveKit, Sui Blockchain, Three.js, ElevenLabs.
-
-**[lapis](https://github.com/stephenhungg/lapis)** — hackathon, 18 hours, 45k LOC
-XRPL prediction market with MetaLEX SAFE agreements, DexScreener, multi-wallet auth, Supabase, Redis. built with a team of 5 from 10am to 4am.
 
 **[crakd.co](https://github.com/qtzx06/crakd)** — AI agent for finding cracked engineers
 Python, React+Vite, GitHub API, Google Gemini API.
@@ -93,3 +109,5 @@ league (peak diamond solo/duo, masters tft) · fashion · sf tech scene · geome
 ---
 
 *open to internships, collaborations, and interesting problems*
+
+<!-- Last updated: April 2026 -->
