@@ -46,7 +46,6 @@ Patched the embedding pipeline with a sliding worker pool — 30x speedup (2 chu
 
 ## other projects
 
-[memopal](https://github.com/qtzx06/memopal) — personal context engine with hierarchical agent swarm
 [enactus website](https://github.com/stephenhungg/enactus-website) — Enactus Berkeley site + AI growth engine
 [crakd](https://github.com/qtzx06/crakd) — AI agent for finding cracked engineers
 [bip](https://github.com/theodorechapman/bip) — agent-to-agent payment rails
