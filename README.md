@@ -4,9 +4,15 @@
 
 ---
 
+## currently
+prepping for walmart global tech (cv / mlops) · shipping iris + lapis · open to chats
+
+---
+
 ## experience
 
 **Walmart Global Tech** — AI/ML Engineer Intern (Summer 2026)
+Computer vision: gesture recognition + multi-camera person re-identification on the Intl. Digital Experience team.
 
 **Blueprint** — Software Developer, Replate Food Rescue Platform
 React Native + Expo mobile app digitizing food donation tracking for 20+ partner nonprofits. Architected the full auth system extending a Ruby on Rails backend.
@@ -24,17 +30,23 @@ AI-powered PFMEA automation tool. Agentic pipeline that converts work instructio
 **[yolodex](https://github.com/qtzx06/yolodex)** — OpenAI Codex Hackathon Winner
 Codex-native pipeline: raw unlabeled video → trained YOLOv8 detection model. Parallel subagent orchestration in isolated git worktrees, autonomous train-eval loop that re-labels until target mAP is hit. **Presented on stage at OpenAI HQ to Sam Altman, Greg Brockman, and Sonya Huang (Sequoia). Featured on OpenAI's official socials — 500K+ impressions in 24 hours.**
 
+**[lapis](https://github.com/stephenhungg/lapis)** — 1st Overall, B@BHacks 2026
+AI-powered startup valuations settled cross-chain. Due diligence agent + adversarial auditor scores a GitHub repo, prediction market crowd-prices it, settlement mints MPT equity tokens on XRPL with vesting escrows linked to a SAFE contract on Base.
+
 **[opal](https://github.com/qtzx06/opal)** — NexHacks @ CMU
 Autonomous AI gaming agent that joins voice channels and plays as a real teammate. Custom YOLOv8 vision model at 60+ FPS, Claude for strategy, LiveKit WebRTC for voice, cloud gaming for anti-cheat compliance. 1,000+ community members, 89ms latency.
 
-**[lapis](https://github.com/stephenhungg/lapis)** — 1st Overall, B@BHacks 2026
-Decentralized fundraising where token holders receive real equity via cross-chain settlement (XRPL + Base). Legally binding SAFE contracts linked to tokenized ownership. AI due diligence agent surfaces inflated traction and fraud signals.
-
-**[flow](https://github.com/stephenhungg/flow)** — SB Hacks XII Winner
-Spatial learning platform — speak concepts, explore photorealistic 3D Gaussian Splat environments with AI-narrated overlays. Won President's Pick + MLH Best Use of ElevenLabs. 6-API async pipeline with WebSocket progress tracking.
-
 **[darwin](https://github.com/qtzx06/darwin)** — Cal Hacks 12.0 Winner
 6-agent coding system: 4 specialized AI agents generate UIs from natural language while a commentator narrates via screen capture. Letta cross-agent memory, LiveKit voice, audio-reactive Three.js/WebGL, gasless Sui blockchain tipping.
+
+**[flow](https://github.com/stephenhungg/flow)** — SB Hacks XII Winner
+Spatial learning platform — speak concepts, explore photorealistic 3D Gaussian Splat environments with AI-narrated overlays. President's Pick + MLH Best Use of ElevenLabs. 6-API async pipeline with WebSocket progress tracking.
+
+**[vima](https://github.com/stephenhungg/vima)** — Hacktech 2026 (Spatial Intelligence)
+Spatial-memory pipeline for egocentric construction video. YOLO/Codex labels → Gemini Robotics-ER fusion → SAM masks → Depth Anything → episodic object-event memory → cited Gemini answers. FastAPI backend, hosted MCP + CLI, Next.js dashboard.
+
+**[iris](https://github.com/stephenhungg/iris)** — AI Video Editor
+GPU-worker pipeline with SAM/CLIP, ffmpeg, FastAPI. Agent-assisted editing flows via CLI handoff and a published Claude Code skill. Hosted at docs.useiris.tech.
 
 **[clarifai](https://github.com/qtzx06/clarifai)** — NVIDIA AI Agent Hackathon Finalist
 Research paper explainer that generates animated visual breakdowns. FastAPI, LangChain, Manim.
@@ -46,23 +58,19 @@ Patched the embedding pipeline with a sliding worker pool — 30x speedup (2 chu
 
 ## other projects
 
+[bip](https://github.com/theodorechapman/bip) — managed identity + payments + browser-auth infra for web agents
+[crakd](https://github.com/qtzx06/crakd) — AI-powered developer search, live at crakd.co
 [enactus website](https://github.com/stephenhungg/enactus-website) — Enactus Berkeley site + AI growth engine
-[crakd](https://github.com/qtzx06/crakd) — AI agent for finding cracked engineers
-[bip](https://github.com/theodorechapman/bip) — agent-to-agent payment rails
 
 ---
 
 ## tech
 
 ```
-typescript · python · c++ · java · go · rust · glsl · sql
-
-react · next.js · vite · three.js/r3f · tailwind · framer motion
-react native · expo · fastapi · express · langchain
-yolov8 · vertex ai · pytorch · tensorflow
-sui move · xrpl · solana
-postgresql · mongodb · supabase · redis · firebase
-aws · gcp · vercel · docker
+typescript · python · go · rust
+react · next.js · three.js · react native · expo
+fastapi · pytorch · langchain · yolov8 · claude
+postgres · supabase · aws · gcp · vercel · docker
 ```
 
 ---
