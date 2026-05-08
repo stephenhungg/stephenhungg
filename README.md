@@ -5,7 +5,7 @@
 ---
 
 ## currently
-prepping for walmart global tech (cv / mlops) · shipping iris + lapis · open to chats
+building whatever catches my interest!
 
 ---
 
